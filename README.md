@@ -4,11 +4,11 @@
 
 ### 🛠 Conocimiento en :
   * Javascript
-  * TypeScript
 ### 🛠 Conocimiento en Front-End:
-  * CSS
-  * Bootstrap
+  * CSS / SASS
+  * Bootstrap / Tailwind CSS
   * React
+  * Next
   * Redux
   * Formik
   * SweetAlert2
@@ -23,6 +23,7 @@
 
 ## Últimos proyectos realizados
 
+- Proyecto Turnos Odontologia [Turnos Odontologia](https://turnos-odontologia.vercel.app/)
 - Proyecto Grupal [E-commerce de zapatillas](https://sneakers-xxre.vercel.app/)
 - Proyecto Lista de tarea simple [Lista de tarea](https://lista-de-tarea-mx.vercel.app/)
 - Proyecto Individual [Dogs App](https://dogs-app-murex.vercel.app/)
