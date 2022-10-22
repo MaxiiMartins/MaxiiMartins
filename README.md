@@ -5,14 +5,14 @@
 ### 🛠 Conocimiento en :
   * Javascript
 ### 🛠 Conocimiento en Front-End:
-  * CSS / SASS
+  * CSS
   * Bootstrap / Tailwind CSS
   * React
   * Next
   * Redux
   * Formik
   * SweetAlert2
-  * Redux-thunk.
+  * Redux-thunk
   * Redux Toolkit
 ### 🛠 Conocimiento en Back-End:
   * Node JS
@@ -23,6 +23,7 @@
 
 ## Últimos proyectos realizados
 
+- Proyecto Mi Portafolio [MaxiiMartins](https://maxiimartins.vercel.app/)
 - Proyecto Turnos Odontologia [Turnos Odontologia](https://turnos-odontologia.vercel.app/)
 - Proyecto Grupal [E-commerce de zapatillas](https://sneakers-xxre.vercel.app/)
 - Proyecto Lista de tarea simple [Lista de tarea](https://lista-de-tarea-mx.vercel.app/)
