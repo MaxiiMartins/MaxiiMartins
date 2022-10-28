@@ -28,7 +28,6 @@
 - Proyecto Grupal [E-commerce de zapatillas](https://sneakers-xxre.vercel.app/)
 - Proyecto Lista de tarea simple [Lista de tarea](https://lista-de-tarea-mx.vercel.app/)
 - Proyecto Individual [Dogs App](https://dogs-app-murex.vercel.app/)
-- ....
 
 ## 🔗 Puedes encontrarme en:
 
