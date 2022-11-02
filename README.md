@@ -6,7 +6,8 @@
   * Javascript
 ### 🛠 Conocimiento en Front-End:
   * CSS
-  * Bootstrap / Tailwind CSS
+  * Bootstrap
+  * Tailwind CSS
   * React
   * Next
   * Redux
