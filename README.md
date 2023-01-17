@@ -24,11 +24,10 @@
 
 ## Últimos proyectos realizados
 
+- Proyecto No country [TicketFAN](https://ticketfan.vercel.app/)
 - Proyecto Mi Portafolio [MaxiiMartins](https://maxiimartins.vercel.app/)
 - Proyecto Turnos Odontologia [Turnos Odontologia](https://turnos-odontologia.vercel.app/)
 - Proyecto Grupal [E-commerce de zapatillas](https://sneakers-xxre.vercel.app/)
-- Proyecto Lista de tarea simple [Lista de tarea](https://lista-de-tarea-mx.vercel.app/)
-- Proyecto Individual [Dogs App](https://dogs-app-murex.vercel.app/)
 
 ## 🔗 Puedes encontrarme en:
 
@@ -36,3 +35,4 @@
 - [Instagram](https://www.instagram.com/maxii.martins/)
 - []()<a href ="mailto:maximartins45@gmail.com" target="_blank">Gmail</a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/?username=MaxiiMartins&repo=github-readme-stats&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)]
