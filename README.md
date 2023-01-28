@@ -1,6 +1,6 @@
-# ¡Hola! Soy Maxi Martins 👋
+# ¡Hola! Mi nombre es Maxi 👋
 
-### Soy un desarrollador de 22 años al que le encanta descubrir nuevas tecnologías, buscar soluciones de programación y formar parte de un equipo de trabajo. Encontré mi pasión por la programación en 2018 y en 2022 me uní a una academia de programación con una metodología de bootcamp. En este momento estoy perfeccionando mis habilidades en el área de front-end, pero también me siento cómodo trabajando en el área de back-end.
+### Soy un desarrollador de 23 años apasionado por descubrir nuevas tecnologías y encontrar soluciones creativas a problemas de programación. Mi interés por la programación se despertó en 2018 y desde entonces he estado constantemente buscando formas de mejorar mis habilidades. En el 2022, me uní a una academia de programación especializada en bootcamp para acelerar mi aprendizaje. Actualmente me enfoco en perfeccionar mis habilidades en el desarrollo front-end, pero también poseo experiencia en el desarrollo de back-end y me siento cómodo trabajando en ambas áreas. Estoy ansioso por unirme a un equipo de trabajo y contribuir con mis habilidades y conocimientos para alcanzar objetivos comunes.
 
 ### 🛠 Conocimiento en :
   * Javascript
