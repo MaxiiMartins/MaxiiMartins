@@ -26,7 +26,6 @@
 
 - Proyecto No country [TicketFAN](https://ticketfan.vercel.app/)
 - Proyecto Mi Portafolio [MaxiiMartins](https://maxiimartins.vercel.app/)
-- Proyecto Turnos Odontologia [Turnos Odontologia](https://turnos-odontologia.vercel.app/)
 - Proyecto Grupal [E-commerce de zapatillas](https://sneakers-xxre.vercel.app/)
 
 ## 🔗 Puedes encontrarme en:
