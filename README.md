@@ -10,6 +10,7 @@
   * Tailwind CSS
   * React
   * Next
+  * Vue
   * Redux
   * Formik
   * SweetAlert2
