@@ -14,7 +14,7 @@
   * Redux
   * Formik
   * SweetAlert2
-  * Redux-thunk
+  * Redux
   * Redux Toolkit
 ### 🛠 Conocimiento en Back-End:
   * Node JS
