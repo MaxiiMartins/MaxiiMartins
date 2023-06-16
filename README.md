@@ -25,9 +25,8 @@
 
 ## Últimos proyectos realizados
 
-- Proyecto No country [TicketFAN](https://ticketfan.vercel.app/)
+- Proyecto No country [Twitter Clone](https://twitter-nocountry-production.up.railway.app/)
 - Proyecto Mi Portafolio [MaxiiMartins](https://maxiimartins.vercel.app/)
-- Proyecto Grupal [E-commerce de zapatillas](https://sneakers-xxre.vercel.app/)
 
 ## 🔗 Puedes encontrarme en:
 
