@@ -34,4 +34,4 @@
 - [Instagram](https://www.instagram.com/maxii.martins/)
 - []()<a href ="mailto:maximartins45@gmail.com" target="_blank">Gmail</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/?username=MaxiiMartins&repo=github-readme-stats&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)]
+![Readme Card](https://github-readme-stats.vercel.app/api/?username=MaxiiMartins&repo=github-readme-stats&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)
