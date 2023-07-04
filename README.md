@@ -13,8 +13,8 @@
 - [Instagram](https://www.instagram.com/maxii.martins/)
 - []()<a href ="mailto:maximartins45@gmail.com" target="_blank">Gmail</a>
 
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/?username=MaxiiMartins&repo=github-readme-stats&count_private=true&show_icons=true&theme=merko)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MaxiiMartins&theme=merko&date_format=j%20M%5B%20Y%5D)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiiMartins&theme=merko&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=MaxiiMartins&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
