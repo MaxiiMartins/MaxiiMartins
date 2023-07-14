@@ -10,7 +10,6 @@
 - Proyecto Mi Portafolio [MaxiiMartins](https://maxiimartins.vercel.app/)
 
 ## 🔗 Puedes encontrarme en:
-
 - [LinkedIn](https://www.linkedin.com/in/maxiimartins/)
 - [Instagram](https://www.instagram.com/maxii.martins/)
 - []()<a href ="mailto:maximartins45@gmail.com" target="_blank">Gmail</a>
