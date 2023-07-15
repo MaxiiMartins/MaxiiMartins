@@ -7,7 +7,7 @@
 ## Últimos proyectos realizados
 - Proyecto Personal [Encuestas de Reacciones](https://encuestas-de-reacciones.vercel.app/)
 - Proyecto No country [Twitter Clone](https://twitter-nocountry-production.up.railway.app/)
-- Proyecto Mi Portafolio [MaxiiMartins](https://maxiimartins.vercel.app/)
+- Proyecto Mi Portafolio [MaxiiMartins](https://maxiimartins.vercel.app/) 
 
 ## 🔗 Puedes encontrarme en:
 - [LinkedIn](https://www.linkedin.com/in/maxiimartins/)
